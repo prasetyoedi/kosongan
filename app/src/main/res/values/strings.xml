@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TugasPertemuan5</string>
+    <string name="regis">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="checking">By checking the box you agree to our </string>
+    <string name="terms">Terms </string>
+    <string name="and">and </string>
+    <string name="conditions">Conditions</string>
+    <string name="readyAccount">Already Have an Account?</string>
+    <string name="login">Log in</string>
+    <string name="homepage">Homepage</string>
+    <string name="welcome">Welcome</string>
+    <string name="your">Your</string>
+    <string name="hasbeen">has been activated</string>
+    <string name="email2">email</string>
+    <string name="phone2">phone</string>
+    <string name="your2">Your</string>
+    <string name="hasbeen2">has been registered</string>
+    <string name="login2">Login</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forgetpw">Forget Password ?</string>
+    <string name="newmember">New Member?</string>
+</resources>
